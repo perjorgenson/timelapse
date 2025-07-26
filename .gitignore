@@ -1,0 +1,5 @@
+.venv/
+photo.jpg
+*.jpg
+outputs/
+*.mp4
