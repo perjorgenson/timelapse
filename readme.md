@@ -155,7 +155,7 @@ to a folder, you can stitch the photos together into a timelapse video with the 
 The last line in the file should be changed to point to the path of your input
 and output files.
 
-```# python create_timelapse("/path/to/images", "my_timelapse.mp4", fps=30)```
+```# create_timelapse("/path/to/images", "my_timelapse.mp4", fps=30)```
 
 
 
